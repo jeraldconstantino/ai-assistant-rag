@@ -1,6 +1,6 @@
 # RAG-based AI Assistant
 
-A comprehensive Retrieval-Augmented Generation (RAG) AI Assistant built with FastAPI backend and Streamlit frontend. This application allows users to upload documents (PDF, TXT, DOCX) and interact with an AI assistant that can answer questions based on the uploaded content using OpenAI's language models.
+A Retrieval-Augmented Generation (RAG) AI Assistant built with FastAPI backend and Streamlit frontend. This application allows users to upload documents (PDF, TXT, DOCX) and interact with an AI assistant that can answer questions based on the uploaded content using OpenAI's language models.
 
 ## 🚀 Features
 
