@@ -101,8 +101,7 @@ RAG AI Assistant/
 
 1. **Start the Backend Server**
    ```bash
-   cd app/be
-   python main.py
+   uvicorn app.be.main:app
    ```
    The FastAPI server will start on `http://localhost:8000`
 
